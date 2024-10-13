@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naseebkakar01
 - 👀 I’m interested in Civil Engineering
-- 🌱 I’m currently learning Desgin and Construction
+- 🌱 I’m currently learning Desgin and Construction changes added here
 - 📫 How to reach me ...
 <!---
 naseebkakar01/naseebkakar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
